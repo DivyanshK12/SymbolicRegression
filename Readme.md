@@ -12,7 +12,7 @@
 * plotly for plotting : https://plotly.com/python/
 
 
-These links also available in Help tab in Jupyter nootbook is relevant libraries are installed
+These links also available in Help tab in Jupyter notebook is relevant libraries are installed
 
 ## Reference Material
 * https://arxiv.org/pdf/2002.12700.pdf : For the overall process for GA2 and GA3 
