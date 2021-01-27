@@ -10,6 +10,8 @@
 * pandas for data manipulation : https://pandas.pydata.org/pandas-docs/stable/?v=20210127140625
 * scipy for scientific functions : https://docs.scipy.org/doc/scipy/reference/?v=20210127140625
 * plotly for plotting : https://plotly.com/python/
+
+
 These links also available in Help tab in Jupyter nootbook is relevant libraries are installed
 
 ## Reference Material
