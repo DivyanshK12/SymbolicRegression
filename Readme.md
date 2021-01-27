@@ -14,3 +14,5 @@
 ## Warnings
 * The GA used is based on loosely typed Symbolic Regression methodology, better results possible from Strongly typed approach
 * The optimization function, functions that are used in the main algorithm are basic ones used in relevant documentation, better functions/methods specififc to this problem could exist
+
+### To view the notebooks without cloning the repo visit https://nbviewer.jupyter.org/ and enter the URL of required jupyter notebook
